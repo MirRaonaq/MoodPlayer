@@ -1,3 +1,5 @@
 # MoodPlayer
 
-iOS app
+## iOS App
+
+Play a random song from your library based on your mood.
