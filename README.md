@@ -1,7 +1,5 @@
 # MoodPlayer
 
-## iOS App
+Supports iOS 11.0 and above.
 
-Supports 11.0 and above
-
-Play a random song from your library based on your mood.
+Play random music from your library based on your mood.
